@@ -14,3 +14,6 @@ Es necesario contar con una cuenta de Gmail para utilizar los Google Colab con l
  1. Inteligencia artificial en el diseño de fármacos: Hacia la inteligencia aumentada: https://www.revistas.unam.mx/index.php/req/article/view/83233
  2. Chemoinformatics-Based Enumeration of Chemical Libraries: A Tutorial: https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00466-z
  3. Descubrimiento y desarrollo de fármacos: un enfoque computacional: https://www.sciencedirect.com/science/article/pii/S0187893X16300301
+
+**Evento**: IX Simposio de "Tendencias actuales en la búsqueda y desarrollo de fármacos", 12 y 13 de junio del 2023.
+https://www.quimicafarmaceuticafq.com/simposioqf
