@@ -15,5 +15,7 @@ Es necesario contar con una cuenta de Gmail para utilizar los Google Colab con l
  2. Chemoinformatics-Based Enumeration of Chemical Libraries: A Tutorial: https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00466-z
  3. Descubrimiento y desarrollo de fármacos: un enfoque computacional: https://www.sciencedirect.com/science/article/pii/S0187893X16300301
 
-**Evento**: IX Simposio de "Tendencias actuales en la búsqueda y desarrollo de fármacos", 12 y 13 de junio del 2023.
-https://www.quimicafarmaceuticafq.com/simposioqf
+**Eventos**: <br>
+● IX Simposio de "Tendencias actuales en la búsqueda y desarrollo de fármacos", 12 y 13 de junio del 2023. 
+https://www.quimicafarmaceuticafq.com/simposioqf <br>
+● UAMedia, curso: "Búsqueda, análisis, representación y visualización de información química contenida en bases de datos moleculares", 9 al 20 de octubre del 2023.
