@@ -19,3 +19,14 @@ Es necesario contar con una cuenta de Gmail para utilizar los Google Colab con l
 ● IX Simposio de "Tendencias actuales en la búsqueda y desarrollo de fármacos", 12 y 13 de junio del 2023. 
 https://www.quimicafarmaceuticafq.com/simposioqf <br>
 ● UAMedia, curso: "Búsqueda, análisis, representación y visualización de información química contenida en bases de datos moleculares", 9 al 20 de octubre del 2023.
+
+**Citar**: <br>
+
+@Manual { 
+    title = {Quimioinformática aplicada al diseño de fármacos}, 
+    author = {Difacquim}, 
+    year = {2023}, 
+    month = {Octubre}, 
+    note = {Manual de Quimioinformática version 1.0}, 
+    url = {https://difacquim.gitbook.io/quimioinformatica
+    }
