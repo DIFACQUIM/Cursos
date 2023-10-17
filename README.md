@@ -22,6 +22,8 @@ https://www.quimicafarmaceuticafq.com/simposioqf <br>
 
 **Citar**: <br>
 
+             manual
+
         @Manual { 
             title = {Quimioinformática aplicada al diseño de fármacos}, 
             author = {Difacquim}, 
