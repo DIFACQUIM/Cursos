@@ -21,13 +21,4 @@ https://www.quimicafarmaceuticafq.com/simposioqf <br>
 ● UAMedia, curso: "Búsqueda, análisis, representación y visualización de información química contenida en bases de datos moleculares", 9 al 20 de octubre del 2023.
 
 **Citar**: <br>
-
-
-        @Manual { 
-            title = {Quimioinformática aplicada al diseño de fármacos}, 
-            author = {Difacquim}, 
-            year = {2023}, 
-            month = {Octubre}, 
-            note = {Manual de Quimioinformática version 1.0}, 
-            url = {https://difacquim.gitbook.io/quimioinformatica
-            }
+Manual electrónico disponible en: https://difacquim.gitbook.io/quimioinformatica
