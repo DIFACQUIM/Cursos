@@ -22,11 +22,11 @@ https://www.quimicafarmaceuticafq.com/simposioqf <br>
 
 **Citar**: <br>
 
-@Manual { 
-    title = {Quimioinformática aplicada al diseño de fármacos}, 
-    author = {Difacquim}, 
-    year = {2023}, 
-    month = {Octubre}, 
-    note = {Manual de Quimioinformática version 1.0}, 
-    url = {https://difacquim.gitbook.io/quimioinformatica
-    }
+        @Manual { 
+            title = {Quimioinformática aplicada al diseño de fármacos}, 
+            author = {Difacquim}, 
+            year = {2023}, 
+            month = {Octubre}, 
+            note = {Manual de Quimioinformática version 1.0}, 
+            url = {https://difacquim.gitbook.io/quimioinformatica
+            }
